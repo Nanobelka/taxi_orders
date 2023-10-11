@@ -17,3 +17,10 @@ Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 - обучить несколько моделей;
 - выбрать лучшую модель;
 - проанализировать выбранную модель, значение метрики RMSE на тестовой выборке должно быть менее 48.
+
+### Примеры визуализаций
+
+EDA
+![hourly_orders)](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_1_hourly_orders.png)
+![trend_seasonal](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_2_trend_seasonal.png)
+![daily_seasonal](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_3_daily_seasonal.png)
