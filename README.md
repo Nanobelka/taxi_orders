@@ -1,4 +1,4 @@
-# [Прогнозирование количества заказов такси](https://nbviewer.jupyter.org/github/Nanobelka/stars_temperature/blob/main/stars_temperature.ipynb)
+# [Прогнозирование количества заказов такси](https://nbviewer.jupyter.org/github/Nanobelka/taxi_orders/blob/main/taxi_orders.ipynb)
 Project for [Yandex.Praktikum](https://github.com/Nanobelka/Yandex_Praktikum)
 
 ### **Входные данные**
