@@ -24,3 +24,6 @@ EDA
 ![hourly_orders)](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_1_hourly_orders.png)
 ![trend_seasonal](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_2_trend_seasonal.png)
 ![daily_seasonal](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_3_daily_seasonal.png)
+![difference_hourly](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_4a_difference_hourly.png)
+![difference_daily](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_4b_difference_daily.png)
+![difference_weekly](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_4c_difference_weekly.png)
