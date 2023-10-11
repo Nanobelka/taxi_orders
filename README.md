@@ -29,3 +29,6 @@ EDA
 ![difference_weekly](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_4c_difference_weekly.png)
 ![autocorrelation](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_5_autocorrelation.png)
 ![autocorrelation_partly](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_6_autocorrelation_partly.png)
+
+Анализ модели
+![permutation_importance](https://github.com/Nanobelka/taxi_orders/blob/main/images/example_7_permutation_importance.png)
